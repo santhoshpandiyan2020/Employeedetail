@@ -1,5 +1,2 @@
 
-"I am manager I upadte few line"
-
-"daily working "
-
+"another branch detail"
