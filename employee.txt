@@ -1,8 +1,8 @@
 " I am santhosh"
 "I am from banglore"
 "I compelete full stack Developer"
-<<<<<<< HEAD
+ HEAD
 "I am manager I upadte few line"
-=======
+
 "daily working "
->>>>>>> c8646b5 (daily work)
+
